@@ -1,6 +1,6 @@
 # Username:Uday
 
-# PAssword:UDay123
+# Password:Uday123
 
 # Getting Started with Create React App
 
